@@ -2,7 +2,7 @@
 # We can define the variables in the terraform.tfvars file and then use them in the main.tf file, for conserving the granularity of the configuration.
 
 module "infra-network" {
-  source = "git::https://github.com/franelmarga/terraform-network-module.git?ref=v1.0.0"
+  source = "git::https://github.com/franelmarga/terraform-network-module.git?ref=1.0.1"
 
   env                = var.env
   region             = var.region

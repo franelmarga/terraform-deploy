@@ -40,7 +40,7 @@ To use this repository, clone it locally and navigate into one of the environmen
 
 ```
 git clone https://github.com/franelmarga/terraform-deploy.git
-cd terraform-root-repo/environments/dev
+cd terraform-deploy/dev
 terraform init
 terraform plan
 terraform apply
