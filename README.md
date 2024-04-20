@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 To use this repository, clone it locally and navigate into one of the environment directories:
 
 ```
-git clone https://github.com/yourusername/terraform-root-repo.git
+git clone https://github.com/franelmarga/terraform-root-repo.git
 cd terraform-root-repo/environments/dev
 terraform init
 terraform plan
