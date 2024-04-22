@@ -19,9 +19,6 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-# Don't include variable values
-*.tfvars
-
 # Don't include temporal plan file created by ansible
 apply_plan
 
